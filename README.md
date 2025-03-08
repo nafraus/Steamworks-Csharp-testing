@@ -1,4 +1,4 @@
-# Steamworks.NET Console App Setup
+# Steamworks.NET Console App Setup (64-bit)
 
 ## How to Use
 
